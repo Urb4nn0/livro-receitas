@@ -6,6 +6,4 @@ _Olá! Seja bem vindo ao meu livro de receitas!_
 
 - Strogonoff de Carne
 - Pavê du bão
-
-
-
+- Bolo de cenoura
